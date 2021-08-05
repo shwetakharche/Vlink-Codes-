@@ -1,1 +1,0 @@
-peint("hello world")
